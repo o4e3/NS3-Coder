@@ -1,0 +1,6 @@
+{
+  "repo_name": "gelliravi/Python_ns3_simulation",
+  "github_url": "https://github.com/gelliravi/Python_ns3_simulation",
+  "readme": "# Python_ns3_simulation\n> An example of a network simulation, using ns3 and Python.\n\n## Requierments\n* Python 2.7\n* ns3\n* matplotlib\n* numpy\n\n## Usage\n#### Clone this repo\n```bash\ngit clone https://github.com/adamruul/Python_ns3_simulation.git\n```\n#### Run it\n```\npython sim.py <Datarate in Mbps eg: 5>\n```\n",
+  "examples": []
+}

@@ -1,0 +1,3 @@
+The image depicts a graphical representation of a network packet's journey through a network. The packet is shown as a red line that starts at the top left corner of the image and descends towards the bottom right corner. Along the red line, there are several labels indicating the different stages of the packet's journey.
+
+The labels include "Grupult Aggregator Plot" at the top left corner, "Data Values" at the top right corner, and "Time" at the bottom right corner. The "Time" label displays the current time in seconds, with the current time being 0.000 seconds. The "Data Values" label indicates the different values of the packet at each stage of its journey. The labels are written in white text on a black background.

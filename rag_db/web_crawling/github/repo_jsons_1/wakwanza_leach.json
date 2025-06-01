@@ -1,0 +1,11 @@
+{
+  "repo_name": "wakwanza/leach",
+  "github_url": "https://github.com/wakwanza/leach",
+  "readme": "Low Energy Adaptive Clustering Hierarchy (LEACH) in ns3\n==========================================================\n\n#####What?\nA simulation in [ns3](http://www.nsnam.org/) of the clustering and energy profiles of\na Wireless sensor network WSN based on the LEACH , mainting a low energy footprint to\nextend the lifetime of the clusters and hence the lifetime of the network.\n\n#####How?\nDownload and extract the project into your ns3 root src directory and execute the build \nby running\n```bash\n$./waf\n```\n\nthen\n\n```bash\n$./waf --run scratch/leach\n```\n\n#####Limitations?\nAll config files variables are currently hard coded in the consts file and the simulation\nis known to work with ns-allinone-3.19, other versions not tested with it yet.\n\n#####Simulation\n\n[Sim](https://asciinema.org/a/9544)\n\n\n\n\n\n",
+  "examples": [
+    {
+      "file_path": "examples/leach-example.cc",
+      "code": "/* -*- Mode:C++; c-file-style:\"gnu\"; indent-tabs-mode:nil; -*- */\n\n#include \"ns3/core-module.h\"\n//#include \"ns3/leach-helper.h\"\n\nusing namespace ns3;\n\n\nint \nmain (int argc, char *argv[])\n{\n  bool verbose = true;\n\n  CommandLine cmd;\n  cmd.AddValue (\"verbose\", \"Tell application to log if true\", verbose);\n\n  cmd.Parse (argc,argv);\n\n  /* ... */\n\n  Simulator::Run ();\n  Simulator::Destroy ();\n  return 0;\n}\n\n\n"
+    }
+  ]
+}

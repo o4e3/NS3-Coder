@@ -1,0 +1,6 @@
+{
+  "repo_name": "ssegota/NS3-simulation-example",
+  "github_url": "https://github.com/ssegota/NS3-simulation-example",
+  "readme": "# NS3 simulation example\n\nThis is a simulation example using ns3 library for simulation a network with topology in lower section for Computer Networks class at Faculty of Engineering Rijeka\n\n## Simulated network topology\n```\n\n                                       n7 ----- n8\n\n                                       /\n\n                                      /\n\n  n3 ----\\                 /-------- n6 ----- n9\n\n          \\               /                    \\\n\n  n2 ---- n4 ----------- n5 -------- n11        \\\n\n          /               \\                     n10\n\n  n1 ----/                 \\-------- n12\n\n  /\n\n /\n\nn0\n```\n",
+  "examples": []
+}

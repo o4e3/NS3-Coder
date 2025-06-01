@@ -1,0 +1,6 @@
+{
+  "repo_name": "signetlabdei/WOSS",
+  "github_url": "https://github.com/signetlabdei/WOSS",
+  "readme": "World Ocean Simulation System - WOSS - \n\nPlease refer to:\n  - INSTALL for installation info\n  - COPYRIGHY for copyright terms\n  - LICENSE for license terms\n  - ACKNOWLEDGEMENTS for acknowledgements info\n  - CHANGELOG for changelog info\n\nA detailed doxygen documentation is embedded in the source code.\nIf you need to read it in html format please install doxygen on \nyour system, and launch the following:\n\ndoxygen doc-woss.cfg\n\nfurther info and documentation can be found at \nhttps://woss.dei.unipd.it\n",
+  "examples": []
+}

@@ -1,0 +1,6 @@
+{
+  "repo_name": "sreekanthj93/Lte-handover",
+  "github_url": "https://github.com/sreekanthj93/Lte-handover",
+  "readme": "Lte-handover\n============\n\nLTE Handover Procedure simulation in NS3\n\n\nPlease copy the provided files in ns3 build\\lte folder\n\nand build the ns3 then copy lena-dual-stripe.cc to scratch folder and run\n",
+  "examples": []
+}

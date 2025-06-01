@@ -1,0 +1,6 @@
+{
+  "repo_name": "dragos-niculescu/ns3-wifi-infra-handoff",
+  "github_url": "https://github.com/dragos-niculescu/ns3-wifi-infra-handoff",
+  "readme": "# ns3-wifi-infra-handoff\n\nBased on ns-3.22 with the patch https://github.com/dlinknctu/OpenNet/blob/master/ns3-patch/sta-wifi-scan.patch\nwe implement wifi handoff over the infrastructure as follows\n- server and APs are separated only by layer 2 switches, APs as bridges\n- mobile scans channels 1-11 and chooses the AP with the best SNR\n- mobile associates, and sends a broadcast packet over L2 so that all traffic is redirected from server \n- test script has a mobile cruising along 3 APs on channels 1, 6, 11\n\nHow to run: \n- tar xjvf ~/Downloads/ns-allinone-3.22.tar.bz2\n- cd ns-allinone-3.22/ns-3.22\n- patch -p1  < wifi-infra-handoff.patch\n- cp wifi-infra-handoff.cc scratch \n- ./waf --run wifi-infra-handoff\n- wifi-5-1.pcap shows traffic at the station \n",
+  "examples": []
+}

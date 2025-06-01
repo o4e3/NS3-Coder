@@ -1,0 +1,6 @@
+{
+  "repo_name": "YTakahashii/Low-rate-DDoS-Attack-ns3-Simulation",
+  "github_url": "https://github.com/YTakahashii/Low-rate-DDoS-Attack-ns3-Simulation",
+  "readme": "This is ns-3-allinone.\n\nIf you have downloaded this in tarball release format, this directory\ncontains some released ns-3 version, along with 3rd party components\nnecessary to support all optional ns-3 features, such as Python\nbindings and the Network Animator.  In this case, just run the\nscript build.py; all the components, plus ns-3 itself, will thus be\nbuilt.  This directory also contains the bake build tool, which allows\naccess to several additional modules including the Network Simulation\nCradle, Direct Code Execution environment, and click and openflow \nextensions for ns-3.\n\nIf you have downloaded this from mercurial, the download.py script will\ndownload bake, netanim, pybindgen, and ns-3-dev.  The usage to use\nbasic ns-3 (netanim and ns-3-dev) is to type:\n./download.py\n./build.py\nand cd into ns-3-dev for further work.  Consult the bake documentation\non how to use bake to access optional ns-3 components.\n",
+  "examples": []
+}

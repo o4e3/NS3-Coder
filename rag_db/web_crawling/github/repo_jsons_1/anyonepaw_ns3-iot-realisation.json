@@ -1,0 +1,6 @@
+{
+  "repo_name": "anyonepaw/ns3-iot-realisation",
+  "github_url": "https://github.com/anyonepaw/ns3-iot-realisation",
+  "readme": "## Internet of Things simulation with NS3 library\n\n\n\n - Project is on Cmake (min VERSION 3.11)\n - Requires QT5 (for netanim only)\n \nSuitable for Mac and Linux (not tried on Windows)\n\n\n### Code in folders:\n\nMain script: in scratch/\nBlockchain: blockchain branch -> src/blockchain\n\n### To build:\n\n    cmake .\n\n### Inspired from:\nhttps://github.com/sapgan/NS3-IoT-Simulator\n\n### C++ Project from:\nhttps://github.com/Gabrielcarvfer/NS3\n",
+  "examples": []
+}

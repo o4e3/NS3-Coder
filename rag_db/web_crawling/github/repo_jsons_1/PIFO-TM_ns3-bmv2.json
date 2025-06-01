@@ -1,0 +1,6 @@
+{
+  "repo_name": "PIFO-TM/ns3-bmv2",
+  "github_url": "https://github.com/PIFO-TM/ns3-bmv2",
+  "readme": "\n# Installation\n\n* Install [bmv2](https://github.com/p4lang/behavioral-model)\n* Install NS3 dependencies listed [here](https://www.nsnam.org/wiki/Installation#Installation)\n* Follow the installation steps below:\n```\n$ cd\n$ mkdir ns3-repos\n$ cd ns3-repos\n$ hg clone http://code.nsnam.org/ns-3-allinone\n$ cd ns-3-allinone\n$ ./download.py -n ns-3.29\n$ cd ns-3.29/\nOptional:\n$ ./waf configure --enable-tests --enable-examples\n$ ./waf build\n```\n\n* Clone this repo and install it on top of the NS3 source files:\n```\n$ cd ~/ns3-repos/\n$ git clone https://github.com/PIFO-TM/ns3-bmv2.git\n$ cd ns3-bmv2/\nNOTE: This next step is very hacky and should be fixed in the future ...\nUpdate the NS3_SRC_DIR in the install.sh script then run:\n$ bash install.sh\n$ cd ~/ns3-repos/ns-3-allinone/ns-3.29/\n$ ./waf configure --enable-tests --enable-examples\n$ ./waf build\n``` \n\n",
+  "examples": []
+}

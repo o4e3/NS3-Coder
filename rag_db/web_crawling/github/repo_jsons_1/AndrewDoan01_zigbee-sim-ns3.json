@@ -1,0 +1,6 @@
+{
+  "repo_name": "AndrewDoan01/zigbee-sim-ns3",
+  "github_url": "https://github.com/AndrewDoan01/zigbee-sim-ns3",
+  "readme": "# zigbee-sim-ns3\nThis repository provides some Zigbee network simulation scenarios implemented using the ns-3 network simulator. It aims to offer example setups for studying and experimenting with Zigbee protocols and behaviors.\n",
+  "examples": []
+}

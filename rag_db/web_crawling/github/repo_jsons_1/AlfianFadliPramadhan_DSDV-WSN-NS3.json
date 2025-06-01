@@ -1,0 +1,6 @@
+{
+  "repo_name": "AlfianFadliPramadhan/DSDV-WSN-NS3",
+  "github_url": "https://github.com/AlfianFadliPramadhan/DSDV-WSN-NS3",
+  "readme": "# DSDV-WSN NS3\nDestination-Sequenced Distance-Vector (DSDV) Routing Protocol simulation for Wireless Sensor Network in NS3\n\nMinimum Requirements:\n- NS-3.28\n- NetAnim-3.108\n\nInstallation:\n- Copy .cc and wscript to /ns-3.28/src/netanim/examples/\n- Edit another 'wscript' in /ns-3.28/src/netanim/ with following line:\n\nmodule = bld.create_ns3_module ('netanim', ['internet', 'mobility', 'wimax', 'wifi', 'csma', 'lte', 'uan', 'lr-wpan', 'energy', 'wave', 'point-to-point-layout', 'dsdv'])\n\n- Build (./waf build)\n- Run (./waf --run dsdv -vis)\n- Simulate .xml file with NetAnim\n\nDOCUMENTATION: https://www.youtube.com/watch?v=Lw2HHAvi9Ao\n",
+  "examples": []
+}

@@ -1,0 +1,6 @@
+{
+  "repo_name": "ogylogy/ns3-rx-tx-example-tcl",
+  "github_url": "https://github.com/ogylogy/ns3-rx-tx-example-tcl",
+  "readme": "# ns3-rx-tx-example-tcl\n\n600 automobiles, passenger_trips.xml\n20 buses, buses_trips.xml\nSimulation time of each vehicle 600ms\n",
+  "examples": []
+}

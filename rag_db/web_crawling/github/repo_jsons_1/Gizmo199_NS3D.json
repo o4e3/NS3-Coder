@@ -1,0 +1,6 @@
+{
+  "repo_name": "Gizmo199/NS3D",
+  "github_url": "https://github.com/Gizmo199/NS3D",
+  "readme": "\nhttps://github.com/Gizmo199/NS3D/assets/25496262/c4bbd6b5-2b3b-4755-96ef-040b69860bc4\n\n\n\nA simple project that show cases stupid work arounds so that you can make paper-3D games in gamemaker without using any shaders! \n\n**Note**\nTechnically there are shaders used in this project, but only as gamemakers built-in effects layers. There is 0 shader code. :)\n",
+  "examples": []
+}

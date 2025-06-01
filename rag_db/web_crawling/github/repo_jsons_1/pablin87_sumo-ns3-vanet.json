@@ -1,0 +1,6 @@
+{
+  "repo_name": "pablin87/sumo-ns3-vanet",
+  "github_url": "https://github.com/pablin87/sumo-ns3-vanet",
+  "readme": "sumo-ns3-vanet\n==============\n\nProyect for make a vanet simulation using sumo and ns3. This proyect intents to implement some ns3 modules for vanet and some scripts for generating traces using sumo as input for the ns2Mobilitymodel",
+  "examples": []
+}

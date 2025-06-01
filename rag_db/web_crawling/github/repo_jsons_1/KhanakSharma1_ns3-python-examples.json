@@ -1,0 +1,6 @@
+{
+  "repo_name": "KhanakSharma1/ns3-python-examples",
+  "github_url": "https://github.com/KhanakSharma1/ns3-python-examples",
+  "readme": "# ns3-python-examples\n\nThis repository contains the work to convert the c++ ns-3 example codes taken from:\n\nhttps://gitlab.com/nsnam/ns-3-dev/tree/master/examples/wireless\n\ninto Python 3 programs.\n\nThe 4 examples converted are\n\n1. wifi-timing-attributes\n\n2. wifi-backward-compatibility\n\n3. wifi-he-network\n\n4. wifi-spectrum-saturation-example\n",
+  "examples": []
+}

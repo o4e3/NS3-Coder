@@ -1,0 +1,12 @@
+The image displays a graphical representation of a network protocol stack, with each layer represented by a different color. The stack consists of seven layers, each with a specific function within the network communication process.
+ The layers are arranged from top to bottom, with each layer's color corresponding to its function:
+
+1. Purple: Application Layer
+2. Blue: Transport Layer
+3. Green: Internet Layer
+4. Yellow: Link Layer
+5. Red: Network Layer
+6. Orange: Data Link Layer
+7. Black: Physical Layer
+
+Each layer is labeled with its name, indicating the layer's function within the stack. The labels are arranged in a horizontal fashion, with each layer's name positioned above its corresponding color. The graphical representation provides a clear visualization of the network protocol stack and its components.

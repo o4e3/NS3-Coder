@@ -1,0 +1,6 @@
+{
+  "repo_name": "AmitBhalerao/DCN-Fat-Tree-Topology-using-NS3",
+  "github_url": "https://github.com/AmitBhalerao/DCN-Fat-Tree-Topology-using-NS3",
+  "readme": "This program contains NS3 C++ code for DCN Fat Tree architecture for 16 servers. It generated packet cpature and flow statistics for UDP, TCP flows. NetAnim configuration is already present in the code.\n",
+  "examples": []
+}

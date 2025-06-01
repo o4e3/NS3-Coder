@@ -1,0 +1,6 @@
+{
+  "repo_name": "JimmyLi-Network/NS3-implementation-MPTCP-Multiple-Path-TCP",
+  "github_url": "https://github.com/JimmyLi-Network/NS3-implementation-MPTCP-Multiple-Path-TCP",
+  "readme": "NS-3 Simulation of MPTCP Multiple-Path-TCP-in-802.11ad-WiGig-and-Wi-Fi\n\nYilong: Configuration code will be located in 'mpTopology.cc'. If you want to compile the source code, you should put the mpTopology in /scratch and run with ./waf.\n\nFundamental models and protocols are included in /src/mptcp/.\n\nRunning the simulation, you type './waf --run mpTopology --vis'\n\nPlease install the necessary dependents, and you are going to use this example.\n",
+  "examples": []
+}

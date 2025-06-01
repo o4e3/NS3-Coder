@@ -1,0 +1,6 @@
+{
+  "repo_name": "Bug-Hunter-X/Unexpected-Runtime-Error-in-Haskell-s--sort--function-nsb3f",
+  "github_url": "https://github.com/Bug-Hunter-X/Unexpected-Runtime-Error-in-Haskell-s--sort--function-nsb3f",
+  "readme": "This repository demonstrates a subtle error that can occur in Haskell when using the `sort` function from `Data.List`. The code compiles without warnings, but attempting to sort a list containing heterogeneous types will cause a runtime error.\n\nThe solution involves adding explicit type annotations to ensure that the list elements are comparable. The solution provides a corrected version with explicit type annotations and demonstrates how to handle potential errors when using the `sort` function with potentially heterogeneous lists.  This showcases the importance of type safety and careful handling of type constraints in Haskell.",
+  "examples": []
+}

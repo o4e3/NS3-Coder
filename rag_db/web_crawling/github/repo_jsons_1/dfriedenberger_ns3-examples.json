@@ -1,0 +1,6 @@
+{
+  "repo_name": "dfriedenberger/ns3-examples",
+  "github_url": "https://github.com/dfriedenberger/ns3-examples",
+  "readme": "# ns3-examples with Python\n\n## Installation\n\n### Use Docker-Container\n\nUsing the VSCode *Remote - Containers* extension and run it in debian/C++/python-Container. \n\n### Test\n```\nroot@docker-desktop:~/ns3-examples# python test.py \nAt time 2s client sent 1024 bytes to 10.1.1.2 port 9\nAt time 2.00369s server received 1024 bytes from 10.1.1.1 port 49153\nAt time 2.00369s server sent 1024 bytes to 10.1.1.1 port 49153\nAt time 2.00737s client received 1024 bytes from 10.1.1.2 port 9\n```\n\n\n\n",
+  "examples": []
+}

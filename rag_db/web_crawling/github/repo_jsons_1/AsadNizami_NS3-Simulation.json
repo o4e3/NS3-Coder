@@ -1,0 +1,6 @@
+{
+  "repo_name": "AsadNizami/NS3-Simulation",
+  "github_url": "https://github.com/AsadNizami/NS3-Simulation",
+  "readme": "# NS3-Simulation\nUnderstanding the impact of MAC scheduling algorithms, numerology, and mobility in 5G NR\n\n## Group 1\n\n- Asad Nizami 19/11/EC/13\n- Kumar Gaurav 19/11/EC/17\n\n## Installation \n\nNS3\n\n1. Use the following shell script: https://github.com/AsadNizami/Shell-script-for-NS3-installation/blob/main/run_install.sh\n2. Mark the file executable and run ~$ ./run_install\n\n## How to run:\n\n1. Place the main.cc file inside the scratch directory.\n2. Run ~$ ./waf --run \"scratch/main.cc --numerology=<numerology> --seed=<seed> --udpFullBuffer=<0/1> --simTime=<time> --schedulerOpt=<algorithm>\"\n\n\n*The main.cc file is heavily inspired from 5G-LENA example- https://github.com/QiuYukang/5G-LENA/blob/master/examples/cttc-3gpp-channel-nums.cc*\n\n",
+  "examples": []
+}

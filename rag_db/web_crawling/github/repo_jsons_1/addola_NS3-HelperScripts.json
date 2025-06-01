@@ -1,0 +1,6 @@
+{
+  "repo_name": "addola/NS3-HelperScripts",
+  "github_url": "https://github.com/addola/NS3-HelperScripts",
+  "readme": "# ns3 Shared Resource by Adil Alsuhaim\nThis `git` repository contains `ns3` resources that I share publicly. The content is as follows:\n\n1. **CheatSheet** A PDF document containing tips & tricks to use in `ns3`\n2. **examples** `ns3` program examples.\n3. **ns3helpers** Scripts written in `Python` that makes running & debugging `ns3` programs easier.\n\n## CheatSheet\nI created a PDF document in `LaTeX` that contains tips & tricks on using `ns3`. I discuss many `ns3` topics including TraceSource, Attributes, creating modules and using packet tags. \n\n## `ns3` Examples\nUnder the `examples` directory we have `ns3` project directories that you can run by copying them to your `ns3`'s scratch directory. The examples were designed for `ns-3.30.1`\n\n## NS3 Helper Scripts\n* You can find scripts I use to help me run my `ns3` simulations in the directory `ns3helpers`\n\n* There's a `README.md` under that directory with information on how to use the scripts.\n\n",
+  "examples": []
+}

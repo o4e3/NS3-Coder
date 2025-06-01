@@ -1,0 +1,6 @@
+{
+  "repo_name": "reshan9b11/NS-3-Example-802.11ax-",
+  "github_url": "https://github.com/reshan9b11/NS-3-Example-802.11ax-",
+  "readme": "# NS-3-Example-802.11ax-\nDifferent clients generate different types of data for OFDMA transmission in 802.11ax.\nBug: HTTP data was not generating, but the Client with ThreeGpp Application takes part in OFDMA frame.\n",
+  "examples": []
+}

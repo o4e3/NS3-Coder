@@ -1,0 +1,6 @@
+{
+  "repo_name": "aniqueazhar/NS3---Leach-Configured",
+  "github_url": "https://github.com/aniqueazhar/NS3---Leach-Configured",
+  "readme": "# Supported Operating System:\nLinux 12.02 LTS\n\nUpdate the gcc compiler to 5.4 version\n\nPull and extract the code in your /home directory\n\nFirstly, build the code by using ./build.py command in ns-allinone-2.27\n\nAfter successfull build use ./waf script for command execution\n\n# leach_ns3- Configured:\nGcc version -- 5.4\nPython Version -- 2.7\n\n## TO Build:\n\n./waf clean\n./waf configure\n./waf build\n\n# To Execute LEACH:\nAll LEACH protocol and its supported files are located in /ns-3.27/scratch folder\n\nFor suuccessful execution of LEACH protocol use following commands\n\n./waf --run test\n./waf --run leach\n\n\n# Virtual Machine Link :\nhttps://drive.google.com/open?id=1DVXt3bzMAWfJtwxWlXXOfy0NeEEqXNmP\nUsername : aneeq\nPassword: 123123123\n",
+  "examples": []
+}

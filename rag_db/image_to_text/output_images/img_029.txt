@@ -1,0 +1,11 @@
+The image displays a graphical representation of a network protocol stack, with each layer labeled and color-coded for easy identification. The stack consists of seven layers, each with its own specific function:
+
+1. Application Layer: This layer is responsible for providing services to the user, such as web browsing, email, and instant messaging. It is represented by a blue rectangle with white text.
+2. Transport Layer: This layer ensures reliable data transfer between applications and the network layer. It is represented by a yellow rectangle with black text.
+3. Internet Layer: This layer handles routing decisions and delivers packets to the correct destination. It is represented by a green rectangle with white text.
+4. Link Layer: This layer manages the communication between devices on the same network. It is represented by a red rectangle with black text.
+5. Network Layer: This layer manages the routing of packets between different networks. It is represented by a purple rectangle with white text.
+6. Data Link Layer: This layer manages the transmission of data frames between devices on the same network. It is represented by a black rectangle with white text.
+7. Physical Layer: This layer deals with the transmission of raw bit streams over a physical medium, such as copper or fiber optics. It is represented by a white rectangle with black text.
+
+Each layer is labeled with its name and numbered with a corresponding integer value. The numbers are displayed in a smaller font size at the bottom of each rectangle. The graphical representation is clean and organized, making it easy to understand the structure of the network protocol stack.

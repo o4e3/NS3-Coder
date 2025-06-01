@@ -1,0 +1,6 @@
+{
+  "repo_name": "AartiNandagiri/ns-3-examples",
+  "github_url": "https://github.com/AartiNandagiri/ns-3-examples",
+  "readme": "# ns-3-examples\n## Examples for TCP Performance Evaluation\n1. Evaluating TCP Performance without background traffic. The network consists a source sending TCP packets to a sink through two intermediate routers. \n2. Evaluating TCP performance in the presence of background traffic. The network consists a source sending TCP packets to a sink through two intermediate routers. The bottleneck link between the routers is shared by a video transfer.\n## Performance Evaluation of RED\nEvaluating performance of Random Early Detection (RED) against First In First Out (FIFO) with droptail. The network consists of five clients sending TCP packets to their corresponding servers through two routers.\n",
+  "examples": []
+}

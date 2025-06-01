@@ -1,0 +1,6 @@
+{
+  "repo_name": "cedrikschueler/PARRoT_ns3",
+  "github_url": "https://github.com/cedrikschueler/PARRoT_ns3",
+  "readme": "# PARRoT_ns3\nns-3 simulation model of the PARRoT routing protocol.\n\n# Corresponding WNS3 2021 Contribution\n`Robust Machine Learning-Enabled Routing for Highly Mobile Vehicular Networks with PARRoT in ns-3`\n\n# Usage\nPlace the model code in your ns-3 folder under `{NS3}/contrib` or `{NS3}/src`\n",
+  "examples": []
+}
