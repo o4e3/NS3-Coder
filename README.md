@@ -16,7 +16,7 @@
 
 | Date           | Name                                             | Files & media                  |
 |----------------|--------------------------------------------------|--------------------------------|
-| March 19, 2025 | 방학 동안 했던 내용                              | [20250319_희원.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250528.pdf), [20250319_수화.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250319_%EC%88%98%ED%99%94.pdf)      |
+| March 19, 2025 | 방학 동안 했던 내용                              | [20250319_희원.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250319_%EC%88%98%ED%99%94.pdf), [20250319_수화.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250319_%EC%88%98%ED%99%94.pdf)      |
 | March 26, 2025 | 입력 양식 정의 및 Default 조사, RAG 적용 및 결과 | [20250326.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250326.pdf)         |
 | April 30, 2025 | fine-tuning, RAG DB 구성, Data Cleaning, ns-3   | [20250430(1).pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250430%20(1).pdf), [20250430(2).pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250430%20(2).pdf) |
 | May 7, 2025    | Data Cleaning, RAG 적용 결과                     | [20250507.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250507.pdf)              |
