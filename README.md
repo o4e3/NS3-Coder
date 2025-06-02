@@ -32,8 +32,8 @@
 | May 7, 2025    | Data Cleaning, RAG 적용 결과                     | [20250507.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250507.pdf)              |
 | May 14, 2025   | RAG DB 관련                                     | [20250514.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250514.pdf)            |
 | May 21, 2025   | LLaVa finetuning(GBC), DB crawling(ns3 community)| [20250521.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250521.pdf)             |
-| May 28, 2025   | Data crawling(stackoverflow)                    | [20250528.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250528.pdf) |
-
+| May 28, 2025   | Data crawling(stackoverflow)                    | [20250528.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/20250528.pdf) |  
+| June 2, 2025   | 2025-1 창의작품경진대회 발표자료(NS3 Coder)       | [NS3-Coder_2025학년도-1학기_창의작품경진대회_Gardening_.pdf](https://github.com/o4e3/NS3-Coder/blob/main/docs/NS3-Coder_2025%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0_%EC%B0%BD%EC%9D%98%EC%9E%91%ED%92%88%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_Gardening_.pdf) |
 
 
  
